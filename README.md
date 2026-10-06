@@ -11,6 +11,6 @@ im a web dev
 <summary>My GitHub Stats</summary>
 <br>
 
-[![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxixiio&theme=onedark)](https://github.com/xxixiio)
+[![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebbjf&theme=onedark)](https://github.com/sebbjf)
 
 </details>
